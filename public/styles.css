@@ -1,0 +1,74 @@
+.hero-text {
+  margin-top: 10.5rem;
+  margin-left: -14rem;
+}
+.globe {
+  margin: 1rem 0;
+}
+
+.globe-btn {
+  width: 30%;
+}
+
+.sub-sec {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+input {
+  width: 1%;
+}
+#sub-sec {
+  width: 20%;
+}
+
+h3.mes-one,
+p.mes-one {
+  font-size: 22px;
+}
+
+h1.mes-one {
+  font-size: 74px;
+}
+
+.spa-text {
+  margin-top: 4%;
+}
+
+.spa-sec {
+  margin: 20% 0;
+  padding: 1%;
+}
+
+.spa-btn {
+  width: 20%;
+  margin: 5% 0 0 10%;
+}
+
+.spa-menu {
+  position: relative;
+  margin-top: -13%;
+}
+
+.spa-ser {
+  width: 426px;
+  height: 431px;
+}
+
+.subscribe {
+  margin: 5% 0;
+}
+
+.product-sec {
+  margin-top: 10%;
+}
+
+.product-ro {
+  margin-left: 20%;
+}
+
+prod-img {
+  width: 434px;
+  height: 650px;
+}
