@@ -5,13 +5,21 @@ function Nav() {
     <section>
       <div class="navbar-menu">
         <div class="navbar-start">
-          <a class="navbar-item logo">Amy Rose</a>
+          <a class="navbar-item logo" href="/">
+            Amy Rose
+          </a>
         </div>
 
         <div class="navbar-end end-bar">
-          <a class="navbar-item spa-out">Home</a>
-          <a class="navbar-item spa-out">About</a>
-          <a class="navbar-item spa-out">Contact</a>
+          <a class="navbar-item spa-out" href="/">
+            Home
+          </a>
+          <a class="navbar-item spa-out" href="/">
+            About
+          </a>
+          <a class="navbar-item spa-out" href="/">
+            Contact
+          </a>
         </div>
       </div>
     </section>
