@@ -1,3 +1,8 @@
+.logo {
+  font-size: 40px;
+  font-weight: bold;
+  color: black;
+}
 .hero-text {
   margin-top: 10.5rem;
   margin-left: -14rem;
@@ -52,8 +57,8 @@ h1.mes-one {
 }
 
 .spa-ser {
-  width: 426px;
-  height: 431px;
+  width: 416px;
+  height: 421px;
 }
 
 .subscribe {
@@ -71,4 +76,24 @@ h1.mes-one {
 prod-img {
   width: 434px;
   height: 650px;
+}
+
+.des-back {
+  margin-top: 20%;
+}
+
+.box {
+  margin-top: 3%;
+}
+
+.end-bar {
+  margin-right: 15%;
+}
+
+.spa-out {
+  padding: 0 5%;
+}
+
+.navbar-item {
+  margin: 0 25%;
 }
