@@ -14,10 +14,10 @@ function Nav() {
           <a class="navbar-item spa-out" href="/">
             Home
           </a>
-          <a class="navbar-item spa-out" href="/">
+          <a class="navbar-item spa-out" href="about">
             About
           </a>
-          <a class="navbar-item spa-out" href="/">
+          <a class="navbar-item spa-out" href="contact">
             Contact
           </a>
         </div>

@@ -2,7 +2,7 @@ import React from "react";
 
 function Subscribe() {
   return (
-    <section class="subscribe is-medium">
+    <section class="subscribe is-large">
       <div className="sub-sec">
         <h1>Subscribe</h1>
         <br></br>
