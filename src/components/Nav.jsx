@@ -14,6 +14,9 @@ function Nav() {
           <a class="navbar-item spa-out" href="/">
             Home
           </a>
+          <a class="navbar-item spa-out" href="shop">
+            Shop
+          </a>
           <a class="navbar-item spa-out" href="about">
             About
           </a>
